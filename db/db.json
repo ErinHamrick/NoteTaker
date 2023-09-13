@@ -7,5 +7,10 @@
         "title": "Title",
         "text": "test note",
         "id": "8266"
+    },
+    {
+        "title": "New Note",
+        "text": "Note",
+        "id": "72ad"
     }
 ]
