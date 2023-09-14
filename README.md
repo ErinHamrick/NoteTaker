@@ -1,6 +1,6 @@
 # NoteTaker
 ## Description
-Allows user to write and save notes.
+Users can write new notes and save them to a file. There is also the option to retrieve and/or delete existing notes.
 
 ## Screenshot
 ![screenshot](./NoteTakerScreenshot.png)
